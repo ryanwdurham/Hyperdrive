@@ -246,17 +246,8 @@ Bright Trails ✓    Holographic UI ✓
 - [ ] Endless mode vs. Level-based mode
 - [ ] Customizable skins for player ship
 
----
 
 
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
