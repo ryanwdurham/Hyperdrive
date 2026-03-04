@@ -181,23 +181,7 @@ Bright Trails ✓    Holographic UI ✓
 - **ESC** - Pause
 - **M** - Mute music
 - **N** - Mute sound effects
-
----
-
-## 🎬 Screenshots
-
-### Main Menu
-*Cyberpunk-themed start screen with difficulty selection*
-
-### Gameplay
-*Intense bullet-hell action with neon effects*
-
-### Boss Battle
-*Epic showdown against VOID, the dark mech warrior*
-
-### Game Over
-*High score screen with statistics and achievements*
-
+- 
 ---
 
 
@@ -233,25 +217,10 @@ Bright Trails ✓    Holographic UI ✓
 
 ---
 
-## 🗺️ Roadmap
-
-### Possible Future Features
-- [ ] Multiplayer co-op mode
-- [ ] More boss types (8 total)
-- [ ] Additional weapon types
-- [ ] Level system with progression
-- [ ] Online leaderboards
-- [ ] Sound options (volume sliders)
-- [ ] More achievements
-- [ ] Endless mode vs. Level-based mode
-- [ ] Customizable skins for player ship
-
-
-
 
 ## 🙏 Acknowledgments
 
-- **Inspiration**: TRON,  Galaga, Spy Hunter, Radien.
+- **Inspiration**: TRON,  Galaga, Spy Hunter, Raiden.
 - **Music**: Electronic/Cyberpunk/Synthwave community
 - **Development**: Built entirely with vanilla JavaScript (no frameworks!)
 
